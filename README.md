@@ -1,4 +1,5 @@
 ### Hi there, I'm Saurav karki - 👋
+ App Developer || Web Developer || Learner
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JungSouwrob?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJungSouwrob&screen_name=JungSouwrob)
 
@@ -28,16 +29,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/JungSouwrob
 [instagram]: https://instagram.com/slimshady_souwrob
 [linkedin]: https://linkedin.com/in/saurav-karki-3091601b2
