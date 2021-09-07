@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">A passionate frontend and backend developer from Nepal.</h3>
+<h3 align="center">A passionate frontend and backend developer from Nepal. Love to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurab86&label=Profile%20views&color=0e75b6&style=flat" alt="saurab86" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurab86" alt="saurab86" /></a> </p>
 
 - 🌱 I’m currently learning **Python,HTML and CSS**
 
