@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Python,HTML and CSS**
 
+- 💬 Ask me about **Flutter, Java, Firebase and Python**
+
 - 👨‍💻 All of my projects are available at [github.com/saurab86](github.com/saurab86)
 
 - 📫 How to reach me **karki.saurab18@gmail.com**
