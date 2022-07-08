@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurab86&label=Profile%20views&color=0e75b6&style=flat" alt="saurab86" /> </p>
 
-- 🌱 I’m currently learning **Python,HTML and CSS**
+- 🌱 I’m currently learning **Python and NodeJS**
 
 - 💬 Ask me about **Flutter, Dart, Java, Firebase and Python**
 
