@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">A Data Engineer, adept at constructing resilient data infrastructure and executing streamlined data pipelines and a passionate frontend and backend developer from Nepal. Love to code.</h3>
+<h3 align="center">A Data Engineer, adept at constructing resilient data infrastructure and executing streamlined data pipelines with experience in  cloud services and big data technologies such as AWS, Azure, Spark and RDBMs. Highly proficient in programming languages such as Python, Java, C++, PySpark and SQL, and have a deep understanding of data warehousing , relational database systems, analyzing and transforming data, maintaining ETL/ELT workflows and also have expertise in web scraping and scraping tools. Some of my major achievements include the automation of the ETL pipelines of different departments and verticals of the company on Internal Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurab86&label=Profile%20views&color=0e75b6&style=flat" alt="saurab86" /> </p>
 
-- 🌱 I’m currently learning **Python and NodeJS**
-
-- 💬 Ask me about **Flutter, Dart, Java, Firebase and Python**
 
 - 👨‍💻 All of my projects are available at [github.com/saurab86](github.com/saurab86)
 
